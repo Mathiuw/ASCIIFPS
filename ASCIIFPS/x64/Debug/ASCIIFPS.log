@@ -1,0 +1,4 @@
+﻿  ASCIIFPS.cpp
+C:\Users\mateu\source\repos\ASCIIFPS\ASCIIFPS.cpp(14,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\mateu\source\repos\ASCIIFPS\ASCIIFPS.cpp(82,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ASCIIFPS.vcxproj -> C:\Users\mateu\source\repos\ASCIIFPS\x64\Debug\ASCIIFPS.exe

@@ -1,0 +1,8 @@
+﻿  ASCIIFPS.cpp
+C:\Users\mateu\source\repos\ASCIIFPS\ASCIIFPS.cpp(152,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\mateu\source\repos\ASCIIFPS\ASCIIFPS.cpp(160,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 172 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ASCIIFPS.vcxproj -> C:\Users\mateu\source\repos\ASCIIFPS\x64\Release\ASCIIFPS.exe
